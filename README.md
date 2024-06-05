@@ -55,8 +55,6 @@ Welcome to my GitHub profile! I'm a passionate Data Science and Machine Learning
 ## 📫 Let's Connect!
 - [LinkedIn](https://www.linkedin.com/in/hemanthchebiyam/)
 - [Email](mailto:hc3746@rit.edu)
-- <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="hemanthchebiyam" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/hemanthchebiyam?trk=profile-badge">Hemanth Chebiyam</a></div>
               
 
 Thanks for stopping by! Feel free to explore my repositories and reach out if you have any questions or collaboration ideas. 🚀
