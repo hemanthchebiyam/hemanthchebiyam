@@ -1,9 +1,9 @@
 # 👋 Hello, World! I'm Hemanth Chebiyam 👨‍💻
 
-Welcome to my GitHub profile! I'm a passionate Data Science and Machine Learning enthusiast currently pursuing my MS in Data Science at the Rochester Institute of Technology. Here's a little bit about me:
+Welcome to my GitHub profile! I'm a passionate Data Science and Machine Learning enthusiast and recently graduated with a MS in Data Science at Rochester Institute of Technology. Here's a little bit about me:
 
 ## 🎓 Education
-- **MS in Data Science** - Rochester Institute of Technology, NY, USA (Aug 2023 - Present) 🎓
+- **MS in Data Science** - Rochester Institute of Technology, NY, USA (Aug 2023 - May 2025) 🎓
   - 🏆 4.0 GPA, Graduate Merit Scholarship Recipient
   - **Core Courses:** Software Construction (Java), Foundations of Data Science and Analytics, Database Design Implementation, Applied Statistics, Software Engineering for Data Science, Self-Adaptive Software Systems with Reinforcement Learning
 - **PG Certificate in AI & ML** - Birla Institute of Technology and Science, Pilani, India (Oct 2021 - Nov 2022) 🧠
